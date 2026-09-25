@@ -1,0 +1,8 @@
+Segment,Pct_of_Market,Age_Range,Monthly_Coffee_Spend_PHP,Willing_To_Pay_Premium_Pct,Key_Needs,Channel_Preference,Top_Location
+Urban_Professionals,35.0,25-44,4500,65.0,Speed+Quality+Consistency,Takeout+Mobile_Order,Makati+BGC
+Gen_Z_Affluent,22.0,18-29,3800,78.0,Aesthetic+Experiential+Sustainable,Cafe_Dine-in+Brew-at-home,Manila+BGC+QC
+Students,15.0,18-24,1200,32.0,Affordability+Study_spaces,Cafe_Dine-in,Diliman+Intramuros
+Young_Families,12.0,28-45,2800,45.0,Family_friendly+Snacks,Cafe+Takeout,Suburban_Malls
+Health_Conscious,7.0,22-50,3200,55.0,Organic+Plant_based+Low_cal,Cafe_Dine-in+Takeout,BGC+Alabang
+Tourists_Expats,6.0,25-60,3600,72.0,Local_flavors+Consistent_quality,Cafe_Dine-in+Brew-at-home,BGC+Makati+Tourist_Areas
+Remote_Workers,3.0,24-45,4200,60.0,WiFi+Power_outlets+Quiet,Cafe_Dine-in+Takeout,Makati+QC
