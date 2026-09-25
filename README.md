@@ -2,6 +2,9 @@
 
 **Should a Company Enter the Philippine Specialty Coffee Market?**
 
+[![Status: Demo-ready](https://img.shields.io/badge/status-demo--ready-22c55e.svg)](https://github.com/agenticph-labs/p6-research-decision)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A complete research-to-decision pipeline demonstrating structured business analysis — from research question framing through data collection, market sizing, competitor analysis, pricing, customer segmentation, risk assessment, and investment recommendation.
 
 ## Repository Structure
@@ -103,6 +106,10 @@ jupyter notebook market-entry-analysis.ipynb
 
 Built for the AgenticPH Labs Portfolio — aligned with Economics + Legal Management analytical rigor.
 
-## License
+## 📄 License
 
 MIT
+
+---
+
+*Portfolio Project 6 — [AgenticPH Labs](https://agenticph-labs.github.io/portfolio)*
